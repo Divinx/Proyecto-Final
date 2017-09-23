@@ -37,7 +37,10 @@ namespace Proyecto_Final
             hola = Console Writeline (Hola mundo);
         
 
-     
+       public void HAblarpersonaje()
+        {
+            Console.WriteLine("me llamo fuefueufuefueufue");
+        }
         
 
     }

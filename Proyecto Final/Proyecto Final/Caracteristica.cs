@@ -8,14 +8,13 @@ namespace Proyecto_Final
 {
     public class Caracteristica
     {
-        public int Id;
-        public string Nombre;
+        public int Valor;
 
-        public Caracteristica (int id, string nombre)
+        public Caracteristica (int valor)
         {
-            this.Id = id;
-            this.Nombre = nombre;
-
+            this.Valor = valor;
+           
         }
+
     }
 }
