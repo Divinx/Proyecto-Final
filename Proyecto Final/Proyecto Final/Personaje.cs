@@ -33,7 +33,10 @@ namespace Proyecto_Final
 
         }
 
-     
+       public void HAblarpersonaje()
+        {
+            Console.WriteLine("me llamo fuefueufuefueufue");
+        }
         
 
     }

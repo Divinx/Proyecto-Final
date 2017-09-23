@@ -6,19 +6,15 @@ using System.Threading.Tasks;
 
 namespace Proyecto_Final
 {
-    public class Raza
+    public class Caracteristica_Variable
     {
         public int Id;
         public string Nombre;
-        public string Descripción;
         
-
-        public Raza ( int id, string nombre, string descripción, int mejora )
+        public Caracteristica_Variable ( int id, string nombre)
         {
             this.Id = id;
             this.Nombre = nombre;
-            this.Descripción = descripción;
-            
 
         }
     }
