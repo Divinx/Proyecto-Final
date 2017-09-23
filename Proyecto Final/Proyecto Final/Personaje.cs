@@ -32,7 +32,13 @@ namespace Proyecto_Final
             this.Carisma = carisma;
 
         }
+<<<<<<< HEAD
               
+=======
+        public static void
+            
+            hola = Console Writeline (Hola mundo);
+>>>>>>> master
         
 
        public void HAblarpersonaje()
