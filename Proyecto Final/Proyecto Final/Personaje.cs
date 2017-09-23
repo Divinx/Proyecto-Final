@@ -34,8 +34,7 @@ namespace Proyecto_Final
         }
         public static void
             
-            hola = Console.Writeline (Hola mundo);
-        
+            hola = Console Writeline (Hola mundo);
         
 
      
