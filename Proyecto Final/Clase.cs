@@ -17,11 +17,7 @@ namespace Proyecto_Final
             this.Id = id;
             this.Nombre = nombre;
             this.Descripción = descripción;
-
-            algo
-
-
-
+                        
         }
     }
 }
